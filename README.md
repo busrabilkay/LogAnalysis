@@ -11,5 +11,5 @@ Komut Açıklaması:
 3- Daha sonra grep çıktısını awk komutuna verdim, böylece satırların sadece ilk kolonunu yani IP adreslerini aldım.
 4- Son olarak tekrar eden IP adreslerini kaldırarak sıralama yapması için awk çıktısını sort komutuna verdim.
 
- Bu şekilde access.log dosyasından  "GET /favicon.ico" requesti atan unique IP adreslerini almış oldum.
+Bu şekilde access.log dosyasından  "GET /favicon.ico" requesti atan unique IP adreslerini almış oldum.
 
